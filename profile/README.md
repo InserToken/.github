@@ -23,7 +23,7 @@
 <img width="1141" height="643" alt="image" src="https://github.com/user-attachments/assets/384f588a-a2c2-41b5-9cfc-76845540a30d" />
 
 ### ERD
-<img width="1141" height="643" alt="image" src="https://github.com/user-attachments/assets/eccc16e5-2651-4463-8343-503e8182b3cd" />
+<img width="1141" height="643" alt="image" src="https://github.com/user-attachments/assets/dacfd3c2-c86f-4707-9c27-cff1fc09979f" />
 
 ### 프롬프트
 <img width="1141" height="643" alt="image" src="https://github.com/user-attachments/assets/0a654287-7bdb-45be-aa53-4ed0e6d98f27" />
