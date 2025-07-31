@@ -56,7 +56,7 @@
 | Title         | Img                                   | Title         | Img                                   |
 | ------------ | ---------------------------------------- | ------------ | ---------------------------------------- |
 | 메인 스크린    | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/ea69170b-0ce2-4154-b7dc-6f7f7bf7f534" />| 연습문제 리스트 | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/84623c50-48ca-40d1-8dbd-735739d78148" />
-| 연습문제 풀이 | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/3b982210-a8b8-4418-a340-b47afb0024ee" />| 연습문제 채점 | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/fad4280a-24c8-4e4b-aaa5-63cafc0e44f8" />
+| 연습문제 풀이 | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/3b982210-a8b8-4418-a340-b47afb0024ee" />| 연습문제 채점 | <img width="1141" height="642" alt="스크린샷 2025-08-01 오전 7 49 50" src="https://github.com/user-attachments/assets/2c3ea431-dd2f-42c1-86c9-62240467f6d2" />
 | 실전투자 예측 |<img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/5f6101d2-aeb9-4214-8a11-d8a8f34018ab" />| 연습문제 랭킹 | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/189768fd-6cbb-4401-9c57-22bf71e5b126" />
 | 실전투자 랭킹 |<img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/20be5a62-e849-4f11-b35f-66d7ffa51f18" />| 마이페이지 | <img width="1141" height="642" alt="image" src="https://github.com/user-attachments/assets/4c04e1f0-d5d5-4b3d-9759-d355cee55914" />
 
